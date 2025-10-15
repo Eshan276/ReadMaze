@@ -1,11 +1,11 @@
 # 🧩 Maze Game  
 Welcome to the interactive maze game!
 
-**Player position:** (4, 7)  
-![Maze](https://recognize-instructor-criteria-other.trycloudflare.com/images/pos_4_7.png?t=1760506135555)
+**Player position:** (3, 5)  
+![Maze](https://recognize-instructor-criteria-other.trycloudflare.com/images/pos_3_5.png?t=1760506170630)
 
 Use these to move:  
-[⬆️](https://recognize-instructor-criteria-other.trycloudflare.com/move/4_7_w)  
-[⬇️](https://recognize-instructor-criteria-other.trycloudflare.com/move/4_7_s)  
-[⬅️](https://recognize-instructor-criteria-other.trycloudflare.com/move/4_7_a)  
-[➡️](https://recognize-instructor-criteria-other.trycloudflare.com/move/4_7_d)
+[⬆️](https://recognize-instructor-criteria-other.trycloudflare.com/move/3_5_w)  
+[⬇️](https://recognize-instructor-criteria-other.trycloudflare.com/move/3_5_s)  
+[⬅️](https://recognize-instructor-criteria-other.trycloudflare.com/move/3_5_a)  
+[➡️](https://recognize-instructor-criteria-other.trycloudflare.com/move/3_5_d)
