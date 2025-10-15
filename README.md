@@ -2,7 +2,7 @@
 Welcome to the interactive maze game! Many people play at once, Only the latest move is applied.
 
 **Player position:** (4, 4)  
-![Maze](https://recognize-instructor-criteria-other.trycloudflare.com/images/pos_4_4.png?t=1760516695933)
+![Maze](https://recognize-instructor-criteria-other.trycloudflare.com/images/pos_4_4.png?t=1760516698125)
 
 Use these to move:  
 [⬆️ Move up](https://recognize-instructor-criteria-other.trycloudflare.com/move/4_4_w)  
