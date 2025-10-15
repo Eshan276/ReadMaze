@@ -2,7 +2,7 @@
 Welcome to the interactive maze game!
 
 **Player position:** (1, 6)  
-![Maze](https://recognize-instructor-criteria-other.trycloudflare.com/images/pos_1_6.png?t=1760506442291)
+![Maze](https://recognize-instructor-criteria-other.trycloudflare.com/images/pos_1_6.png?t=1760506500149)
 
 Use these to move:  
 [⬆️](https://recognize-instructor-criteria-other.trycloudflare.com/move/1_6_w)  
