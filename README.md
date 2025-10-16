@@ -1,4 +1,4 @@
-# Maze Game  
+# Maze Game  [I am turning this off i will get broke]
 Welcome to the interactive maze game! Many people play at once, Only the latest move is applied.
 
 **Player position:** (0, 1)  
