@@ -1,11 +1,11 @@
 # Maze Game  
 Welcome to the interactive maze game! Many people play at once, Only the latest move is applied.
 
-**Player position:** (1, 2)  
-![Maze](https://github-maze-game.vercel.app/images/pos_1_2.png?t=1760831546408)
+**Player position:** (1, 3)  
+![Maze](https://github-maze-game.vercel.app/images/pos_1_3.png?t=1760832029873)
 
 Use these to move:  
-[⬆️ Move up](https://github-maze-game.vercel.app/move/1_2_w)  
-[⬇️ Move down](https://github-maze-game.vercel.app/move/1_2_s)  
-[⬅️ Move left](https://github-maze-game.vercel.app/move/1_2_a)  
-[➡️ Move right](https://github-maze-game.vercel.app/move/1_2_d)
+[⬆️ Move up](https://github-maze-game.vercel.app/move/1_3_w)  
+[⬇️ Move down](https://github-maze-game.vercel.app/move/1_3_s)  
+[⬅️ Move left](https://github-maze-game.vercel.app/move/1_3_a)  
+[➡️ Move right](https://github-maze-game.vercel.app/move/1_3_d)
