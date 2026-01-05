@@ -2,7 +2,7 @@
 Welcome to the interactive maze game! Many people play at once, Only the latest move is applied.
 
 **Player position:** (5, 6)  
-![Maze](https://github-maze-game.vercel.app/images/pos_5_6.png?t=1767647060243)
+![Maze](https://github-maze-game.vercel.app/images/pos_5_6.png?t=1767647065282)
 
 Use these to move:  
 [⬆️ Move up](https://github-maze-game.vercel.app/move/5_6_w)  
